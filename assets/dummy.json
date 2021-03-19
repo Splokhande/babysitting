@@ -1,0 +1,83 @@
+{
+  "userBooking":[
+  {
+    "bookingId": "1",
+    "packageName": "One Day Package",
+    "fromDate": "20.03.2021",
+    "toDate": "21.03.2021",
+    "fromTime": "11 pm",
+    "toTime": "7 am"
+  },
+  {
+    "bookingId": "2",
+    "packageName": "Weekly Package",
+    "fromDate": "23.03.2021",
+    "toDate": "29.03.2021",
+    "fromTime": "8 am",
+    "toTime": "8 pm"
+  },
+  {
+    "bookingId": "3",
+    "packageName": "Monthly Package",
+    "fromDate": "01.04.2021",
+    "toDate": "30.04.2021",
+    "fromTime": "2 pm",
+    "toTime": "6 pm"
+  }
+],
+"packages": [
+  {
+    "name": "One Day Package",
+    "cost": "2799",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  },
+
+  {
+    "name": "Two Day Package",
+    "cost": "5219",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  },
+
+  {
+    "name": "Three Day Package",
+    "cost": "7497",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  },
+
+  {
+    "name": "Four Day Package",
+    "cost": "9699",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  },
+
+  {
+    "name": "Five Day Package",
+    "cost": "11495",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  },
+
+  {
+    "name": "Six Day Package",
+    "cost": "13925",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  },
+
+  {
+    "name": "Weekly Package",
+    "cost": "15999",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  },
+
+  {
+    "name": "Monthly Package",
+    "cost": "75000",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  },
+
+  {
+    "name": "Weekend Package",
+    "cost": "7497",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd"
+  }
+]
+}
